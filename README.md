@@ -1,59 +1,60 @@
 Listado de carreras tecnológicas en universidades públicas argentinas confeccionado a partir de información encontrada en:
 
-www.uba.ar
-www.undef.edu.ar
-www.unab.edu.ar
-www.unaj.edu.ar
-www.undav.edu.ar
-www.unca.edu.ar
-www.undec.edu.ar
-www.unc.edu.ar
-www.uncu.edu.ar
-www.uner.edu.ar
-www.unsam.edu.ar
-www.ungs.edu.ar
-www.unahur.edu.ar
-www.unpaz.edu.ar
-www.unju.edu.ar
-www.unlam.edu.ar
-www.unlpam.edu.ar
-www.unpa.edu.ar
-www.unp.edu.ar
-www.unlp.edu.ar
-www.unlar.edu.ar
-www.unla.edu.ar
-www.unlz.edu.ar
-www.unlc.edu.ar
-www.unlu.edu.ar
-www.mdp.edu.ar
-www.unam.edu.ar
-www.unq.edu.ar
-www.unraf.edu.ar
-www.unrc.edu.ar
-www.unrn.edu.ar
-www.unr.edu.ar
-www.unsa.edu.ar
-www.unsj.edu.ar
-www.unsl.edu.ar
-www.unsada.edu.ar
-www.unse.edu.ar
-www.untdf.edu.ar
-www.untref.edu.ar
-www.unt.edu.ar
-www.unvime.edu.ar
-www.unicen.edu.ar
-www.uncoma.edu.ar
-www.unne.edu.ar
-www.unnoba.edu.ar
-www.uno.edu.ar
-www.uns.edu.ar
-www.unso.edu.ar
-www.utn.edu.ar
-www.unipe.edu.ar
-uader.edu.ar
-ulp.edu.ar
-udc.edu.ar
-upso.edu.ar
-iugna.edu.ar
-iupfa.edu.ar
-untdf.edu.ar
+| University | URL                          |
+|------------|------------------------------|
+| UBA        | www.uba.ar                   |
+| UNDEF      | www.undef.edu.ar             |
+| UNAB       | www.unab.edu.ar              |
+| UNAJ       | www.unaj.edu.ar              |
+| UNDAV      | www.undav.edu.ar             |
+| UNCA       | www.unca.edu.ar              |
+| UNDEC      | www.undec.edu.ar             |
+| UNC        | www.unc.edu.ar               |
+| UNCU       | www.uncu.edu.ar              |
+| UNER       | www.uner.edu.ar              |
+| UNSAM      | www.unsam.edu.ar             |
+| UNGS       | www.ungs.edu.ar              |
+| UNAHUR     | www.unahur.edu.ar            |
+| UNPAZ      | www.unpaz.edu.ar             |
+| UNJU       | www.unju.edu.ar              |
+| UNLAM      | www.unlam.edu.ar             |
+| UNLPAM     | www.unlpam.edu.ar            |
+| UNPA       | www.unpa.edu.ar              |
+| UNP        | www.unp.edu.ar               |
+| UNLP       | www.unlp.edu.ar              |
+| UNLAR      | www.unlar.edu.ar             |
+| UNLA       | www.unla.edu.ar              |
+| UNLZ       | www.unlz.edu.ar              |
+| UNLC       | www.unlc.edu.ar              |
+| UNLU       | www.unlu.edu.ar              |
+| MDP        | www.mdp.edu.ar               |
+| UNAM       | www.unam.edu.ar              |
+| UNQ        | www.unq.edu.ar               |
+| UNRAF      | www.unraf.edu.ar             |
+| UNRC       | www.unrc.edu.ar              |
+| UNRN       | www.unrn.edu.ar              |
+| UNR        | www.unr.edu.ar               |
+| UNSA       | www.unsa.edu.ar              |
+| UNSJ       | www.unsj.edu.ar              |
+| UNSL       | www.unsl.edu.ar              |
+| UNSADA     | www.unsada.edu.ar            |
+| UNSE       | www.unse.edu.ar              |
+| UNTDF      | www.untdf.edu.ar             |
+| UNTREF     | www.untref.edu.ar            |
+| UNT        | www.unt.edu.ar               |
+| UNVIME     | www.unvime.edu.ar            |
+| UNICEN     | www.unicen.edu.ar            |
+| UNCOMA     | www.uncoma.edu.ar            |
+| UNNE       | www.unne.edu.ar              |
+| UNNOBA     | www.unnoba.edu.ar            |
+| UNO        | www.uno.edu.ar               |
+| UNS        | www.uns.edu.ar               |
+| UNSO       | www.unso.edu.ar              |
+| UTN        | www.utn.edu.ar               |
+| UNIPE      | www.unipe.edu.ar             |
+| UADER      | www.uader.edu.ar             |
+| ULP        | www.ulp.edu.ar               |
+| UDC        | www.udc.edu.ar               |
+| UPSO       | www.upso.edu.ar              |
+| IUGNA      | www.iugna.edu.ar             |
+| IUPFA      | www.iupfa.edu.ar             |
