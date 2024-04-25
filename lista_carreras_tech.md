@@ -65,7 +65,11 @@
 | Licenciatura en sistemas | https://www.unlu.edu.ar/carg-sistemas-pre.html | Universidad Nacional de Luján | UNLu | http://www.unlu.edu.ar/ |
 | Ingeniería en computación | https://www.fi.mdp.edu.ar/index.php/institucional/carreras-de-grado/ingenieria-en-computacion | Universidad Nacional de Mar del Plata | UNMDP | http://www.mdp.edu.ar/ |
 | Ingeniería informática | https://www.fi.mdp.edu.ar/index.php/institucional/carreras-de-grado/ingenieria-informatica | Universidad Nacional de Mar del Plata | UNMDP | http://www.mdp.edu.ar/ |
-| Ingeniería en computación | https://www.fio.unam.edu.ar/index.php?option=com_sppagebuilder&view=page&id=12 | Universidad Nacional de Misiones | UNMUNaM | http://www.unam.edu.ar/ |
+| Ingeniería en computación | https://www.fio.unam.edu.ar/index.php?option=com_sppagebuilder&view=page&id=12 | Universidad Nacional de Misiones | UNaM | http://www.unam.edu.ar/ |
+| Licenciatura en sistemas de información | https://www.fceqyn.unam.edu.ar/carreras/licenciatura-en-sistemas-de-informacion/ | Universidad Nacional de Misiones | UNaM | http://www.unam.edu.ar/ |
+| Profesorado Universitario en Computación | https://www.fceqyn.unam.edu.ar/carreras/profesorado-universitario-en-computacion/ | Universidad Nacional de Misiones | UNaM | http://www.unam.edu.ar/ |
+| Analista en Sistemas de Computación | https://www.fceqyn.unam.edu.ar/carreras/analista-en-sistemas-de-computacion/ | Universidad Nacional de Misiones | UNaM | http://www.unam.edu.ar/ |
+| Tecnicatura Universitaria en Tecnologías de la Información | https://www.fceqyn.unam.edu.ar/carreras/tec-univ-en-tecnologias-de-la-informacion/ | Universidad Nacional de Misiones | UNaM | http://www.unam.edu.ar/ |
 | Licenciatura en Informática | https://www.unq.edu.ar/carrera/58-licenciatura-en-informatica/ | Universidad Nacional de Quilmes | UNQ | http://www.unq.edu.ar/ |
 | Tecnicatura Universitaria en Programación | https://www.unq.edu.ar/carrera/32-tecnicatura-universitaria-en-programacion-informatica/ | Universidad Nacional de Quilmes | UNQ | http://www.unq.edu.ar/ |
 | Lic en producción de videojuegos | https://www.unraf.edu.ar/carreras-unraf/licenciaturas-ingenierias/155-propuesta/lic/pres/2860-carrera-7 | Universidad Nacional de Rafaela | UNRaf | http://unraf.edu.ar/ |
