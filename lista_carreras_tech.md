@@ -105,6 +105,8 @@
 | Programador universitario | https://www.unvime.edu.ar/escuela-ingenieria/programador-universitario-de-sistemas/ | Universidad Nacional de Villa Mercedes | UNViMe | http://www.unvime.edu.ar/ |
 | Ingeniería en Sistemas | https://www.unicen.edu.ar/content/ingenier%C3%AD-de-sistemas | Universidad Nacional del Centro de la Provincia de Buenos Aires | UNICEN | http://www.unicen.edu.ar/ |
 | Analista programador universitario | https://www.unicen.edu.ar/content/analista-programador-universitario | Universidad Nacional del Centro de la Provincia de Buenos Aires | UNICEN | http://www.unicen.edu.ar/ |
+| Tecnicatura en administración de redes informáticas | https://www.unicen.edu.ar/content/tecnicatura-universitaria-en-administraci%C3%B3n-de-redes-inform%C3%A1ticas | Universidad Nacional del Centro de la Provincia de Buenos Aires | UNICEN | http://www.unicen.edu.ar/ |
+| Tecnicatura en desarrollo de aplicaciones informáticas | https://www.unicen.edu.ar/content/tecnicatura-universitaria-en-desarrollo-de-aplicaciones-inform%C3%A1ticas-tudai | Universidad Nacional del Centro de la Provincia de Buenos Aires | UNICEN | http://www.unicen.edu.ar/ |
 | Licenciatura en Ciencias de la Computación | https://www.uncoma.edu.ar/carreras/licenciatura-en-ciencias-de-la-computacion/ | Universidad Nacional del Comahue | UNCOMAUNCo | http://www.uncoma.edu.ar/ |
 | Licenciatura en Sistemas de Información | https://www.uncoma.edu.ar/carreras/licenciatura-en-sistemas-de-informacion/ | Universidad Nacional del Comahue | UNCOMAUNCo | http://www.uncoma.edu.ar/ |
 | Profesorado en Informática | https://www.uncoma.edu.ar/carreras/profesorado-en-informatica/ | Universidad Nacional del Comahue | UNCOMAUNCo | http://www.uncoma.edu.ar/ |
