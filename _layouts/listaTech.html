@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+        <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+    <!-- Ensure any CSS files are also included here if necessary -->
+</head>
+<body>
+    <input type="text" id="searchInput" placeholder="Buscar por Carrera..." style="margin-bottom: 20px;">
+    {{ content }}
+    <!-- Link to your JavaScript file -->
+    <script src="{{ '/assets/js/sort.js' | relative_url }}"></script>
+</body>
+</html>
