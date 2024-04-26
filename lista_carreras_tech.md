@@ -127,9 +127,9 @@
 | Tecnicatura en ciberseguridad | [https://www.unso.edu.ar/es/carrera/1e96e356-b012-453c-ba2b-599c9f49237f](https://webunso.unsanisidro.edu.ar/ciberseguridad/) | Universidad Nacional Raúl Scalabrini Ortiz | UNSO | http://www.unso.edu.ar/ |
 | Tecnicatura en desarrollo de videojuegos | https://www.unso.edu.ar/es/carrera/1e96e356-b012-453c-ba2b-599c9f49237f | Universidad Nacional Raúl Scalabrini Ortiz | UNSO | http://www.unso.edu.ar/ |
 | Ingeniería en Sistemas de Información | https://www.utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=1&id_seleccion=8 | Universidad Tecnológica Nacional | UTN | http://www.utn.edu.ar/ |
-| Ingeniería en sistemas | https://www.utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=1&id_seleccion=8 | Universidad Tecnológica Nacional | UTN | http://www.utn.edu.ar/ |
 | Tecnicatura en programación | https://www.utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=3&id_seleccion=63 | Universidad Tecnológica Nacional | UTN | http://www.utn.edu.ar/ |
 | Tecnicatura en sistemas informáticos | https://www.utn.edu.ar/es/estudiar-utn?tipo_busqueda=carreras&id_tipos_carreras=3&id_seleccion=67 | Universidad Tecnológica Nacional | UTN | http://www.utn.edu.ar/ |
+| Tecnicatura universitaria en tecnologías de la información | https://www.frsf.utn.edu.ar/carreras/tecnicaturas/tecnicatura-universitaria-en-tecnologia-de-la-informacion | Universidad Tecnológica Nacional | UTN | https://www.frsf.utn.edu.ar/ |
 | Profesorado de informática | https://unipe.edu.ar/oferta-academica-2024/sede-metropolitana/item/1256-profesorado-en-informatica-sede-metropolitana | Universidad Pedagógica Nacional | UNIPE | https://www.unipe.edu.ar/ |
 | Licenciatura en Sistemas de Información | https://fcyt.uader.edu.ar/carreras/licenciatura-en-sistemas-de-informacion/ | Universidad Autónoma de Entre Ríos | UADER | https://www.uader.edu.ar/ |
 | Tecnicatura Universitaria en Desarrollo de Software | https://ulp.edu.ar/paginas/oferta_educativa/tecnicaturas/ict_tuds.php | Universidad de La Punta | ULP | https://ulp.edu.ar/ |
