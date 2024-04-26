@@ -1,3 +1,7 @@
+---
+layout: listaTech
+---
+
 # Lista de carreras
 
 | Carrera | Plan de estudios | Universidad | Acrónimo | Sitio oficial Universidad |
